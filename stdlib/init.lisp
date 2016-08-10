@@ -1,9 +1,9 @@
 
 # STDLIB - Initialization
 
-# defun - Makro pro pohodlné vytváření funkcí
-# - udělá anonymní funkci kterou následně pojmenuje.
-# - parametr body musí obsahovat jen jeden příkaz. Složitější funkce se dávají 
+# defun - Macro for defining functions
+# - it makes anonymouse function and then assign name to it.
+# - argument body has to contain just one statement. More complex functions can be contained in  
 #   do (evall A B C)
 # example:
 # (defun helloworld ()
@@ -16,7 +16,7 @@
                                  (comma params)
                                  (comma body)))))))
 
-# import - funkce pro vložení a interpretaci jiného zdrojáku
+# import - function for importing and evaluating another source code
 #
 (defun import (filename)
     (evall 
