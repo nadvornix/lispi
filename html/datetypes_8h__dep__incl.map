@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" href="$datetypes_8cpp.html" title="datetypes.cpp" alt="" coords="24,237,128,267"/>
+<area shape="rect" href="$enviroment_8cpp.html" title="enviroment.cpp" alt="" coords="227,237,336,267"/>
+<area shape="rect" href="$enviroment_8h.html" title="enviroment.h" alt="" coords="233,160,329,189"/>
+<area shape="rect" href="$stdlibc_8h.html" title="stdlibc.h" alt="" coords="317,315,387,344"/>
+<area shape="rect" href="$exceptions_8h.html" title="exceptions.h" alt="" coords="445,160,541,189"/>
+<area shape="rect" href="$parser_8cpp.html" title="parser.cpp" alt="" coords="747,237,829,267"/>
+<area shape="rect" href="$tokenizer_8cpp.html" title="tokenizer.cpp" alt="" coords="853,237,952,267"/>
+<area shape="rect" href="$parser_8h.html" title="parser.h" alt="" coords="604,160,671,189"/>
+<area shape="rect" href="$tokenizer_8h.html" title="tokenizer.h" alt="" coords="745,83,831,112"/>
+<area shape="rect" href="$main_8cpp.html" title="main.cpp" alt="" coords="165,315,240,344"/>
+<area shape="rect" href="$repl_8h.html" title="repl.h" alt="" coords="517,237,571,267"/>
+<area shape="rect" href="$repl_8cpp.html" title="repl.cpp" alt="" coords="575,315,641,344"/>
+<area shape="rect" href="$exceptions_8cpp.html" title="exceptions.cpp" alt="" coords="384,237,493,267"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$datetypes_8h.html" title="datetypes.h" alt="" coords="621,315,709,344"/>
+<area shape="rect" href="$enviroment_8h.html" title="enviroment.h" alt="" coords="353,392,449,421"/>
+<area shape="rect" href="$parser_8h.html" title="parser.h" alt="" coords="760,160,827,189"/>
+<area shape="rect" href="$repl_8h.html" title="repl.h" alt="" coords="351,83,404,112"/>
+<area shape="rect" href="$tokendefs_8h.html" title="Symbolické konstanty pro typ tokenu." alt="" coords="835,315,923,344"/>
+<area shape="rect" href="$tokenizer_8h.html" title="tokenizer.h" alt="" coords="756,237,841,267"/>
+<area shape="rect" href="$exceptions_8h.html" title="exceptions.h" alt="" coords="387,237,483,267"/>
+</map>

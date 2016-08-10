@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$parser_8cpp.html" title="parser.cpp" alt="" coords="5,160,88,189"/>
+<area shape="rect" href="$parser_8h.html" title="parser.h" alt="" coords="191,83,257,112"/>
+<area shape="rect" href="$tokenizer_8cpp.html" title="tokenizer.cpp" alt="" coords="281,83,380,112"/>
+<area shape="rect" href="$enviroment_8cpp.html" title="enviroment.cpp" alt="" coords="112,160,221,189"/>
+<area shape="rect" href="$repl_8cpp.html" title="repl.cpp" alt="" coords="219,237,285,267"/>
+<area shape="rect" href="$repl_8h.html" title="repl.h" alt="" coords="320,160,373,189"/>
+<area shape="rect" href="$stdlibc_8h.html" title="stdlibc.h" alt="" coords="408,237,477,267"/>
+<area shape="rect" href="$main_8cpp.html" title="main.cpp" alt="" coords="309,237,384,267"/>
+</map>

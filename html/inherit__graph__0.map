@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classBaseException.html" title="Rodičovská, abstraktní třída všech vyjímek." alt="" coords="5,85,115,115"/>
+<area shape="rect" href="$classIOException.html" title="vyjímka pro špatné I/O operace (neexistující soubor atd)" alt="" coords="176,5,269,35"/>
+<area shape="rect" href="$classNameException.html" title="vyjímka pro neexistující symbol (funkce i proměnné)" alt="" coords="167,59,279,88"/>
+<area shape="rect" href="$classSyntaxException.html" title="vyjímka pro chyby v syntaxi (vyhazuje Parser)" alt="" coords="163,112,283,141"/>
+<area shape="rect" href="$classTypeException.html" title="vyjímka pro špatně použité datové typy (počet a typ parametrů primitivních..." alt="" coords="169,165,276,195"/>
+</map>

@@ -1,0 +1,10 @@
+
+IMPORTANT:
+- Better error reporting when right parenthesis is missing
+- Unary minus
+
+OTHER:
+- cons same as in CL
+- memory leaky
+- turtle graphics
+

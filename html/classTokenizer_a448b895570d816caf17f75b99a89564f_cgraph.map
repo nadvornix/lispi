@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$classTokenizer.html#a810fff85a57e45f9342a95eee61b6471" title="Tokenizer::nextToken2" alt="" coords="200,109,352,139"/>
+<area shape="rect" href="$classTokenizer.html#a1cb4024406fa627ddbecebe53b800cad" title="Přečte a vrátí jeden znak. A posune všecky ukazatele pozice." alt="" coords="639,109,769,139"/>
+<area shape="rect" href="$classTokenizer.html#a475d735bee6443dab1c52cc9aef957ac" title="Přečte a vrátí textovou reprezentaci čísla. Posune ukazatele pozice." alt="" coords="424,163,560,192"/>
+<area shape="rect" href="$classTokenizer.html#a2181986dd70cde20dc4f50ed921c416d" title="Přečte a vrátí textovou reprezentaci symbolu. Posune ukazatele pozice." alt="" coords="416,216,568,245"/>
+<area shape="rect" href="$classTokenizer.html#ab2df8aff51c86d0443b5d80dc54c221f" title="Přečte a vrátí textovou reprezentaci lispovského stringu. Posune ukazatele pozice..." alt="" coords="424,5,560,35"/>
+<area shape="rect" href="$classTokenizer.html#a2388460dc8a0c2f6a89bbac51a5c7230" title="Přesune ukazatel pozice na další kus kódu. Přeskakuje bílé znaky a komentáře..." alt="" coords="400,109,584,139"/>
+<area shape="rect" href="$classTokenizer.html#a4922257501ad42db35dec35af72859c2" title="Vrátí stav ukazatelů o jedno zavolání funkce getChar() zpět. Na konci zdrojáku..." alt="" coords="632,163,776,192"/>
+<area shape="rect" href="$tokenizer_8cpp.html#aa2a98d7dcb533cb4b9417db9b6c75cb2" title="je validni znak pro symbol" alt="" coords="676,216,732,245"/>
+</map>

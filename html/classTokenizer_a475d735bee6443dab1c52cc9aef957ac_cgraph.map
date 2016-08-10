@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classTokenizer.html#a1cb4024406fa627ddbecebe53b800cad" title="Přečte a vrátí jeden znak. A posune všecky ukazatele pozice." alt="" coords="199,5,329,35"/>
+<area shape="rect" href="$classTokenizer.html#a4922257501ad42db35dec35af72859c2" title="Vrátí stav ukazatelů o jedno zavolání funkce getChar() zpět. Na konci zdrojáku..." alt="" coords="192,59,336,88"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classIOException.html" title="vyjímka pro špatné I/O operace (neexistující soubor atd)" alt="" coords="5,235,99,323"/>
+<area shape="rect" href="$classNameException.html" title="vyjímka pro neexistující symbol (funkce i proměnné)" alt="" coords="123,235,235,323"/>
+<area shape="rect" href="$classSyntaxException.html" title="vyjímka pro chyby v syntaxi (vyhazuje Parser)" alt="" coords="259,235,379,323"/>
+<area shape="rect" href="$classTypeException.html" title="vyjímka pro špatně použité datové typy (počet a typ parametrů primitivních..." alt="" coords="403,235,509,323"/>
+</map>

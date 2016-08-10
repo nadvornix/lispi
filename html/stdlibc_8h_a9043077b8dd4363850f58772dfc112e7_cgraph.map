@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$classEnviroment.html#a179d601741bf3628c4591343c1314f6f" title="Enviroment::eval" alt="" coords="108,112,225,141"/>
+<area shape="rect" href="$classElem.html#a693e03c8d35fc03845954424a0dbcc82" title="Elem::printable" alt="" coords="113,165,220,195"/>
+<area shape="rect" href="$classBaseException.html#a5afcb996d8baa7ffb741918424518d17" title="BaseException::addFunction" alt="" coords="276,5,463,35"/>
+<area shape="rect" href="$classLFunction.html#a28d0ccc52f63248664d0580016c0da52" title="LFunction::call" alt="" coords="317,59,421,88"/>
+<area shape="rect" href="$classEnviroment.html#a0cd74a98635a50764a40e32012ab0b40" title="Enviroment::evalAll" alt="" coords="303,112,436,141"/>
+<area shape="rect" href="$classElem.html#a5c428768ded97394c9adcd82aad5da8a" title="Elem::whois" alt="" coords="324,165,415,195"/>
+<area shape="rect" href="$classLList.html#afce04606d00dce0eb15302805d85ecc8" title="LList::add" alt="" coords="513,112,591,141"/>
+<area shape="rect" href="$classLList.html#a3b894eceab1030076df048092cb4eee9" title="vrátí ukazatel na poslední prvek seznamu" alt="" coords="644,85,721,115"/>
+<area shape="rect" href="$classLList.html#a677cea778753c98132827a6266ce622a" title="LList::LList" alt="" coords="640,139,725,168"/>
+</map>

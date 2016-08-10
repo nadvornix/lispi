@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" href="$classTokenizer.html#a475d735bee6443dab1c52cc9aef957ac" title="Přečte a vrátí textovou reprezentaci čísla. Posune ukazatele pozice." alt="" coords="221,24,357,53"/>
+<area shape="rect" href="$classTokenizer.html#a2181986dd70cde20dc4f50ed921c416d" title="Přečte a vrátí textovou reprezentaci symbolu. Posune ukazatele pozice." alt="" coords="213,77,365,107"/>
+<area shape="rect" href="$classTokenizer.html#a2388460dc8a0c2f6a89bbac51a5c7230" title="Přesune ukazatel pozice na další kus kódu. Přeskakuje bílé znaky a komentáře..." alt="" coords="197,131,381,160"/>
+<area shape="rect" href="$classTokenizer.html#a810fff85a57e45f9342a95eee61b6471" title="Tokenizer::nextToken2" alt="" coords="429,77,581,107"/>
+<area shape="rect" href="$classTokenizer.html#a448b895570d816caf17f75b99a89564f" title="Tokenizer::nextToken" alt="" coords="631,77,775,107"/>
+<area shape="rect" href="$classParser.html#a2c6b7fc3378e8d645adf5e6230c6daf1" title="Vezme další token a převede ho na Elem." alt="" coords="824,77,952,107"/>
+<area shape="rect" href="$classParser.html#ac0c22400c6b993185875893b747b71b8" title="Vezme token typu LIST a převede ho na lispovský LList." alt="" coords="1000,77,1101,107"/>
+<area shape="rect" href="$classParser.html#ac8a6e3b6fe3822be53b6e8c10e655e31" title="Parser::parseString" alt="" coords="1151,77,1281,107"/>
+<area shape="rect" href="$stdlibc_8h.html#aae3313a06ca084d2ddadb43dba3c4399" title="parsec" alt="" coords="1539,5,1597,35"/>
+<area shape="rect" href="$classParser.html#a9aec6055008f7898b73692b8b9dc9143" title="Převede předaný stream na string a předá parseString() (mají stejné API)." alt="" coords="1332,156,1471,185"/>
+<area shape="rect" href="$classRepl.html#ad62e656af4e8a8deea5b0942db93dda5" title="Repl::run" alt="" coords="1365,77,1437,107"/>
+<area shape="rect" href="$classEnviroment.html#a66750ad675e6fc15b35e666e9bcf282f" title="Implicitní konstuktor &#45; vytvoří prázdný enviroment a definuje primitivní symboly..." alt="" coords="1664,45,1824,75"/>
+<area shape="rect" href="$repl_8h.html#aefadd946a208caa8d0dffb0e41f0e919" title="Spustí lispovský program daný parametrem filename v enviromentu env." alt="" coords="1520,163,1616,192"/>
+<area shape="rect" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1720,124,1768,153"/>
+<area shape="rect" href="$stdlibc_8h.html#aedae9057075be8251d0f6baededf381e" title="replc" alt="" coords="1544,59,1592,88"/>
+</map>

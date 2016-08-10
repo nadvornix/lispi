@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classTokenizer.html#a1cb4024406fa627ddbecebe53b800cad" title="Přečte a vrátí jeden znak. A posune všecky ukazatele pozice." alt="" coords="215,5,345,35"/>
+<area shape="rect" href="$tokenizer_8cpp.html#aa2a98d7dcb533cb4b9417db9b6c75cb2" title="je validni znak pro symbol" alt="" coords="252,59,308,88"/>
+<area shape="rect" href="$classTokenizer.html#a4922257501ad42db35dec35af72859c2" title="Vrátí stav ukazatelů o jedno zavolání funkce getChar() zpět. Na konci zdrojáku..." alt="" coords="208,112,352,141"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$classLBool.html" title="Datový typ pro logické hodnoty." alt="" coords="35,253,125,416"/>
+<area shape="rect" href="$classLFunction.html" title="Společný datový typ pro primitivní a lispovské funkce a makra." alt="" coords="149,291,227,379"/>
+<area shape="rect" href="$classLInt.html" title="Celočíselný datový typ." alt="" coords="251,244,341,425"/>
+<area shape="rect" href="$classLList.html" title="Seznam &#45; linked list." alt="" coords="365,216,456,453"/>
+<area shape="rect" href="$classLString.html" title="Datový typ pro řetězce." alt="" coords="480,253,571,416"/>
+<area shape="rect" href="$classLSymbol.html" title="Třída pro symboly (názvy proměnných a funkcí)." alt="" coords="595,253,685,416"/>
+<area shape="rect" href="$classLFunctionC.html" title="Primitivní funkce (v C)." alt="" coords="5,520,112,683"/>
+<area shape="rect" href="$classLFunctionL.html" title="Lispovská funkce." alt="" coords="136,501,240,701"/>
+<area shape="rect" href="$classLFunctionM.html" title="Lispovské makro." alt="" coords="264,501,371,701"/>
+</map>

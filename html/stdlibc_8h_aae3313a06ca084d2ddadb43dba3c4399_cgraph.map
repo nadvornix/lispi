@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" href="$classEnviroment.html#a179d601741bf3628c4591343c1314f6f" title="Enviroment::eval" alt="" coords="123,99,240,128"/>
+<area shape="rect" href="$datetypes_8cpp.html#a3e27de89d06b2438ca9d12127bae11c7" title="expect_LString" alt="" coords="128,285,235,315"/>
+<area shape="rect" href="$classParser.html#ac8a6e3b6fe3822be53b6e8c10e655e31" title="Parser::parseString" alt="" coords="116,232,247,261"/>
+<area shape="rect" href="$classBaseException.html#a5afcb996d8baa7ffb741918424518d17" title="BaseException::addFunction" alt="" coords="297,125,484,155"/>
+<area shape="rect" href="$classLFunction.html#a28d0ccc52f63248664d0580016c0da52" title="LFunction::call" alt="" coords="339,179,443,208"/>
+<area shape="rect" href="$classEnviroment.html#a0cd74a98635a50764a40e32012ab0b40" title="Enviroment::evalAll" alt="" coords="324,19,457,48"/>
+<area shape="rect" href="$classElem.html#a5c428768ded97394c9adcd82aad5da8a" title="Elem::whois" alt="" coords="345,72,436,101"/>
+<area shape="rect" href="$classLList.html#afce04606d00dce0eb15302805d85ecc8" title="LList::add" alt="" coords="559,39,636,68"/>
+<area shape="rect" href="$classLList.html#a3b894eceab1030076df048092cb4eee9" title="vrátí ukazatel na poslední prvek seznamu" alt="" coords="744,5,821,35"/>
+<area shape="rect" href="$classLList.html#a677cea778753c98132827a6266ce622a" title="LList::LList" alt="" coords="740,59,825,88"/>
+<area shape="rect" href="$classParser.html#ac0c22400c6b993185875893b747b71b8" title="Vezme token typu LIST a převede ho na lispovský LList." alt="" coords="340,232,441,261"/>
+<area shape="rect" href="$classTokenizer.html#a9ef429748fad985d8e9caabe6400a7c2" title="Tokenizer::tokenizeString" alt="" coords="307,285,475,315"/>
+<area shape="rect" href="$classParser.html#a2c6b7fc3378e8d645adf5e6230c6daf1" title="Vezme další token a převede ho na Elem." alt="" coords="533,232,661,261"/>
+<area shape="rect" href="$classParser.html#a6bb5ffde951aae7e1051078ee3c38c47" title="Vezme token typu INT a převede ho na token typu LInt." alt="" coords="735,259,831,288"/>
+<area shape="rect" href="$classParser.html#ab17e529eac7a166b359fcaaf556876e3" title="Vezme token typu STRING a převede ho na token typu LString." alt="" coords="725,312,840,341"/>
+<area shape="rect" href="$classParser.html#a4a44940b690a3b9e9b49ef5afd348496" title="Vezme token typu SYMBOL a převede ho na token typu LSymbol." alt="" coords="721,152,844,181"/>
+<area shape="rect" href="$classTokenizer.html#a448b895570d816caf17f75b99a89564f" title="Tokenizer::nextToken" alt="" coords="711,205,855,235"/>
+<area shape="rect" href="$classTokenizer.html#a810fff85a57e45f9342a95eee61b6471" title="Tokenizer::nextToken2" alt="" coords="904,205,1056,235"/>
+<area shape="rect" href="$classTokenizer.html#a1cb4024406fa627ddbecebe53b800cad" title="Přečte a vrátí jeden znak. A posune všecky ukazatele pozice." alt="" coords="1343,205,1473,235"/>
+<area shape="rect" href="$classTokenizer.html#a475d735bee6443dab1c52cc9aef957ac" title="Přečte a vrátí textovou reprezentaci čísla. Posune ukazatele pozice." alt="" coords="1128,259,1264,288"/>
+<area shape="rect" href="$classTokenizer.html#a2181986dd70cde20dc4f50ed921c416d" title="Přečte a vrátí textovou reprezentaci symbolu. Posune ukazatele pozice." alt="" coords="1120,312,1272,341"/>
+<area shape="rect" href="$classTokenizer.html#ab2df8aff51c86d0443b5d80dc54c221f" title="Přečte a vrátí textovou reprezentaci lispovského stringu. Posune ukazatele pozice..." alt="" coords="1128,101,1264,131"/>
+<area shape="rect" href="$classTokenizer.html#a2388460dc8a0c2f6a89bbac51a5c7230" title="Přesune ukazatel pozice na další kus kódu. Přeskakuje bílé znaky a komentáře..." alt="" coords="1104,205,1288,235"/>
+<area shape="rect" href="$classTokenizer.html#a4922257501ad42db35dec35af72859c2" title="Vrátí stav ukazatelů o jedno zavolání funkce getChar() zpět. Na konci zdrojáku..." alt="" coords="1336,259,1480,288"/>
+<area shape="rect" href="$tokenizer_8cpp.html#aa2a98d7dcb533cb4b9417db9b6c75cb2" title="je validni znak pro symbol" alt="" coords="1380,312,1436,341"/>
+</map>
